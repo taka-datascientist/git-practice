@@ -1,3 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-stash練習用
+stash練習用(トラック済)
+
