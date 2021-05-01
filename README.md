@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-tag練習用
+git push origin mainルール適用テスト
 
